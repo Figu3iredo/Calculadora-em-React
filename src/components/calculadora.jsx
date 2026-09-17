@@ -33,7 +33,7 @@ export default function Calculadora() {
     }
 
   return (
-    <div backgroundColor="black" >
+    <div>
         <div style={{ marginTop: '10em' }}></div>
     <Container maxWidth="xs">
       <div className="fundo">
