@@ -1,0 +1,49 @@
+button{
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 5em;
+    margin: 0.3em;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+
+.fundo{
+    background-color: black;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.operadores{
+    background-color: #c57c15;
+    color: white;
+}
+
+.numeros{
+    background-color: #555;
+    color: white;
+}
+
+.apagar{
+    background-color: #db534f;
+    color: white;
+}
+
+.igual{
+    background-color: #73b373;      
+}
+
+.resultado{
+    background-color: #272727;
+    color: white;
+    border-radius: 0.5em;
+    padding: 0.5em;
+    margin-bottom: 1em;
+    text-align: right;
+    font-size: 3.5em;
+}
+
